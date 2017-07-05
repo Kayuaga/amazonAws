@@ -1,0 +1,8 @@
+{
+  "name": "todo",
+  "description": "services_for_todo",
+  "memory": 128,
+  "timeout": 5,
+  "role": "arn:aws:iam::202839577225:role/ToDoService_lambda_function",
+  "environment": {}
+}
